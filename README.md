@@ -15,7 +15,7 @@ Measuring, Taking Off, and Quantifying a Residential House Using Autodesk Takeof
 ### AUTODESK TAKEOFF USER INTERFACE
 ![AUTODESK PROJECT 1](https://github.com/user-attachments/assets/60a2b009-8c90-4250-b141-5ac8b10abba7)
 ---
-### AUTODESK EXCEL TEMPLATE PRREVIEW
+### AUTODESK EXCEL TEMPLATE PREVIEW
 ![AUTODESK TEMPLATE PREVIEW](https://github.com/user-attachments/assets/9d454c3b-6d7f-4202-bf7f-1fc64618bbbb)
 ---
 ### AUTODESK TAKEOFF SHEET
